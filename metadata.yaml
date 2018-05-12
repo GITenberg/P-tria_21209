@@ -17,6 +17,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
     - http://en.wikipedia.org/wiki/Guerra_Junqueiro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21209#P-tria
 edition_note: Terceira edição
 gutenberg_issued: '2007-04-24'
 gutenberg_type: Text
