@@ -1,0 +1,38 @@
+_repo: P-tria_21209
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Junqueiro, Abílio Manuel Guerra
+    aliases:
+    - Junqueiro, Abilio Manuel Guerra
+    - Junqueiro, Guerra
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '6701'
+    url: http://www.gutenberg.org/2009/agents/6701
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
+    - http://en.wikipedia.org/wiki/Guerra_Junqueiro
+description: ''
+edition_note: Terceira edição
+gutenberg_issued: '2007-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21209'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net"
+publication_note: "Porto:\r\nLivraria Chardron, de Lélo & Irmão,\r\neditores--Rua\
+  \ das Carmelitas, 144\r\n1915"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese drama'
+title: Pátria
+url: http://www.gutenberg.org/ebooks/21209
